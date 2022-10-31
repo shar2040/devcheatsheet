@@ -1,4 +1,4 @@
-Machine learning cheat sheet
+Machine learning CheatSheet
 ----------------------------------
 
 This contains many classical equations and diagrams on machine learning, which will help you quickly recall knowledge and ideas on machine learning.
